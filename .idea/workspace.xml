@@ -6,31 +6,14 @@
   <component name="BspLocalSettings">
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/../../../2020-2021/pc/pc2-2021/code" value="PREVIEW" />
+        <entry key="$USER_HOME$/2020-2021/pc/pc2-2021/code" value="PREVIEW" />
       </map>
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be6a05cf-828c-439b-bff8-9ca1199192f0" name="Changes" comment="">
+    <list default="true" id="be6a05cf-828c-439b-bff8-9ca1199192f0" name="Changes" comment="chore: Added files that should not be traced to gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/pc/examples/PNMutualExclusion.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/pc/examples/PNMutualExclusion.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/pc/examples/StochasticChannel.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/pc/examples/StochasticChannelSimulation.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/pc/examples/StochasticMutualExclusion.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/pc/examples/SystemMutualExclusion.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/pc/examples/SystemMutualExclusion.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/pc/examples/TryMSet.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/pc/examples/TryMSet.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/pc/modelling/CTMC.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/pc/modelling/CTMCSimulation.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/pc/modelling/PetriNet.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/pc/modelling/PetriNet.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/pc/modelling/SPN.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/pc/modelling/System.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/pc/modelling/System.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/pc/utils/MSet.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/pc/utils/MSet.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/pc/utils/Stochastics.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/pc/utils/Time.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/pc/modelling/PNSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/pc/modelling/PNSpec.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/pc/modelling/StochasticChannelSpec.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/pc/utils/MSetCheck.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/pc/utils/MSetCheck.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/pc/utils/StochasticsSpec.scala" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +41,21 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/media/dati/work/Lessons/2022-2023/pc/pc-mod2-code&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/media/dati/work/Lessons/2022-2023/pc/pc-mod2-code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="ScalaTest.ScalaTests in 'scala'">
     <configuration name="MSetCheck" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="pc.utils.MSetCheck" />
@@ -169,18 +159,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667597390791</updated>
+      <workItem from="1678269313399" duration="85000" />
+      <workItem from="1678269412143" duration="313000" />
     </task>
+    <task id="LOCAL-00001" summary="chore: Added files that should not be traced to gitignore">
+      <created>1678269724256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678269724256</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="02-exercise" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: Added files that should not be traced to gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: Added files that should not be traced to gitignore" />
   </component>
 </project>
